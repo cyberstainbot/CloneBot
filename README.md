@@ -63,7 +63,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 ## ☂ Deploying on Railway.app
 
 1. For Direct Deploy,Click on the Below Button
-<p><a href="https://railway.app/new/template?template=https://github.com/aishik2005/CloneBot&envs=telegram_token,user_ids,group_ids"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-black?style=for-the-badge&logo=railway" alt="Deploy to Railway" /></a></p>
+<p><a href="https://railway.app/new/template?template=https://github.com/flaskvol/CloneBot&envs=telegram_token,user_ids,group_ids"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-black?style=for-the-badge&logo=railway" alt="Deploy to Railway" /></a></p>
 
 
 2. Fill the following Environment Values as per below Instructions: 
