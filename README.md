@@ -28,10 +28,6 @@ Note : there are hidden features, check at the source code of the bot to find th
 ### ⚠ You need [service accounts (sa)](https://telegra.ph/How-to-create-and-use-service-accounts-sa-03-31) to use the bot
 <br/><br/>
 
-## ⚛️ Deploying on Heroku
---> https://github.com/MsGsuite/CloneBot_Heroku
-<br/><br/>
-
 ## 📱 Run the bot on your phone using termux
 
 --> https://telegra.ph/Clone-Bot-Termux-04-30
@@ -111,4 +107,3 @@ Wait a little bit.You will see that your app has been deployed to Qovery and the
 - [anymeofu](https://github.com/anymeofu/CloneBot) for making the Direct Heroku deployable Version
 - Zero-The-Kamisama to making me discover this amazing bot and the detailed instructions
 - [zorgof](https://t.me/zorgof) for the termux script
-- [Aishik Tokdar](https://t.me/aishik2005) for Adding Guide to Deploy on Railway.app and Qovery and some other Code Improvements
